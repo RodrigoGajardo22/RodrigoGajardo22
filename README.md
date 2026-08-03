@@ -130,16 +130,6 @@ Sistema empresarial desarrollado sobre CodeIgniter con integración de pasarelas
 
 Aplicación para la administración de empleados, documentación, asistencia e historial laboral, diseñada para organizaciones con múltiples usuarios y necesidades de escalabilidad.
 
----
-
-# 🌱 Actualmente aprendiendo
-
-* Python
-* Django
-* NestJS
-* Inteligencia Artificial
-* Computer Vision
-* Arquitecturas basadas en Microservicios
 
 ---
 
