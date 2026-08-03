@@ -1,67 +1,153 @@
 # 👋 ¡Hola! Soy Rodrigo Ariel Gajardo
 
-🎓 Estudiante avanzado de **Licenciatura en Sistemas**  
-💻 Desarrollador backend en **PHP (CodeIgniter 3 y Laravel)**  
-☁️ Con certificación en **AWS**, experiencia en despliegues, automatización y APIs REST  
-📍 Desde Argentina | 🌐 Trabajo remoto
+🎓 Estudiante avanzado de **Licenciatura en Sistemas**
+💻 Backend Developer con experiencia en **PHP y Java**
+☁️ Experiencia en **AWS**, APIs REST, arquitectura de software y despliegues Cloud
+📚 Actualmente capacitándome en **Python, Django, NestJS e Inteligencia Artificial**
+📍 Argentina | 🌎 Trabajo remoto
 
 ---
 
-## 🚀 Sobre mí
+# 🚀 Sobre mí
 
-Soy Técnico Programador Universitario, apasionado por la tecnología, con experiencia en desarrollo y evolución de sistemas web.  
-Actualmente trabajo como **desarrollador** y **referente técnico**, liderando iniciativas clave mientras finalizo mi licenciatura.  
+Soy Técnico Programador Universitario y estudiante avanzado de **Licenciatura en Sistemas**, apasionado por el desarrollo de software y la construcción de soluciones escalables.
+
+Actualmente me desempeño como **Backend Developer**, participando en el desarrollo, mantenimiento y evolución de aplicaciones empresariales. Además, me encuentro ampliando mis conocimientos en tecnologías modernas como **Python, Django, NestJS** e **Inteligencia Artificial**, con el objetivo de seguir creciendo profesionalmente.
+
 Me interesa especialmente:
 
-- 🔐 Ciberseguridad  
-- ☁️ Arquitectura Cloud  
-- 🤖 Inteligencia Artificial  
-- 📊 Gestión de proyectos y equipos de desarrollo
+* 🤖 Inteligencia Artificial
+* ☁️ Cloud Computing (AWS)
+* 🔐 Ciberseguridad
+* 🏗️ Arquitectura de Software
+* 📈 Optimización de procesos mediante tecnología
 
 ---
 
-## 🛠️ Tecnologías que uso
+# 🛠️ Stack Tecnológico
 
-- **Backend:** Java,PHP 5.6 / 8.3, CodeIgniter 3, Laravel 11 y 12  
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap  
-- **Bases de datos:** MySQL  
-- **Herramientas:** Git, GitHub, Postman, Putty, WinSCP  
-- **Cloud:** AWS (EC2, S3, RDS, Route 53, Workmail, VPC, IAM, Systems Manager, ELB, CloudWatch)  
-- **Sistemas:** Ubuntu Server  
-- **Contenedores:** Docker  
+## Backend
+
+* PHP (5.6, 8.x)
+* Laravel
+* CodeIgniter 3
+* Java
+
+## Frontend
+
+* React
+* JavaScript
+* HTML5
+* CSS3
+* Bootstrap
+
+## Bases de datos
+
+* MySQL
+* SQLite
+
+## Cloud & DevOps
+
+* AWS (EC2, RDS, S3, Route 53, IAM, VPC, CloudWatch, Systems Manager)
+* Docker
+* GitHub Actions
+* Linux (Ubuntu Server)
+
+## Actualmente capacitándome en
+
+* Python
+* Django
+* Django REST Framework
+* NestJS
+* Inteligencia Artificial
+* Computer Vision
+
+## Herramientas
+
+* Git
+* GitHub
+* Postman
+* VS Code
 
 ---
 
-## 📂 Proyectos destacados
+# 💼 Experiencia
 
-- **Sistema de gestión de facturación**  
-  Backend desarrollado en CodeIgniter 3, integrado con pasarelas de pago como ePayco.  
-  Incluye validación automática, activación de usuarios, carga de comprobantes y control de suscripciones.
+Actualmente participo en el desarrollo y mantenimiento de plataformas empresariales, colaborando en tareas como:
 
-- **App de gestión de empleados y nóminas**  
-  Plataforma pensada para empresas con múltiples empleados.  
-  Incluye control de asistencias, documentación, historial laboral y gestión de nóminas.  
-  Escalable a miles de empresas con alto rendimiento.
-
----
-
-## 📈 Qué responsabilidades tengo en este momento
-
-- 🔄 Migración progresiva desde **CodeIgniter 3 a Laravel 12**, rediseñando el core de la plataforma
-- 🧱 Implementación de **patrones de arquitectura moderna** (MVC, Service Layer, Repositories, DTOs)
-- ☁️ Automatización de despliegues, gestión y monitoreo en **AWS** (EC2, S3, RDS, Load Balancers, CloudWatch)
-- ⚙️ Desarrollo backend en **Java** para sistemas de inventario adaptados al rubro de la construcción
-- 🧩 **Impulsor de la adopción de una arquitectura basada en microservicios**, promoviendo el desacoplamiento del sistema y una estructura modular escalable
+* Desarrollo de nuevas funcionalidades.
+* Diseño e implementación de APIs REST.
+* Migración progresiva de aplicaciones desde CodeIgniter hacia Laravel.
+* Implementación de arquitecturas desacopladas y mejores prácticas de desarrollo.
+* Automatización de despliegues sobre AWS.
+* Optimización del rendimiento y escalabilidad de aplicaciones.
+* Integración con servicios externos y pasarelas de pago.
 
 ---
 
-## 📫 ¿Querés contactarme?
+# 🚀 Proyectos destacados
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rodrigo-gajardo/)  
-- ✉️ Email: *rodrigoarielgajardo@gmail.com*
+## 🐄 Ganadería 3.0
+
+Proyecto personal orientado a la aplicación de Inteligencia Artificial en el sector agropecuario.
+
+El objetivo es estimar automáticamente la **Condición Corporal (BCS)** del ganado bovino a partir de imágenes utilizando modelos de visión por computadora y aprendizaje profundo.
+
+**Tecnologías utilizadas:**
+
+* Python
+* FastAPI
+* React
+* NestJS
+* YOLO
+* Docker
 
 ---
 
-Gracias por pasar por mi perfil 👨‍💻 ¡Estoy abierto a nuevas oportunidades y colaboraciones!
+## 📦 StockControl
 
+Aplicación Full Stack desarrollada como parte del programa de formación de **Alkemy**.
 
+Características principales:
+
+* React + Vite
+* Django REST Framework
+* JWT Authentication
+* CRUD de Clientes
+* CRUD de Productos
+* CRUD de Proveedores
+* Arquitectura Frontend / Backend desacoplada
+
+---
+
+## 💳 Plataforma de Facturación Electrónica
+
+Sistema empresarial desarrollado sobre CodeIgniter con integración de pasarelas de pago, validación automática de comprobantes y gestión de suscripciones.
+
+---
+
+## 👥 Sistema de Gestión Humana
+
+Aplicación para la administración de empleados, documentación, asistencia e historial laboral, diseñada para organizaciones con múltiples usuarios y necesidades de escalabilidad.
+
+---
+
+# 🌱 Actualmente aprendiendo
+
+* Python
+* Django
+* NestJS
+* Inteligencia Artificial
+* Computer Vision
+* Arquitecturas basadas en Microservicios
+
+---
+
+# 📫 Contacto
+
+* 💼 LinkedIn: https://www.linkedin.com/in/rodrigo-gajardo/
+* ✉️ Email: [rodrigoarielgajardo@gmail.com](mailto:rodrigoarielgajardo@gmail.com)
+
+---
+
+⭐ Siempre estoy interesado en aprender nuevas tecnologías, participar en proyectos desafiantes y seguir creciendo como Backend Developer.
