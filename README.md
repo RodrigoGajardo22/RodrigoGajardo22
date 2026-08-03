@@ -1,24 +1,24 @@
 # 👋 ¡Hola! Soy Rodrigo Ariel Gajardo
 
-🎓 Estudiante avanzado de **Licenciatura en Sistemas**
-💻 Backend Developer con experiencia en **PHP y Java**
-☁️ Experiencia en **AWS**, APIs REST, arquitectura de software y despliegues Cloud
-📚 Actualmente capacitándome en **Python, Django, NestJS e Inteligencia Artificial**
-📍 Argentina | 🌎 Trabajo remoto
+🎓 **Técnico Programador Universitario** y estudiante avanzado de **Licenciatura en Sistemas**  
+⚙️ **Backend Developer** enfocado en **NestJS, Node.js, Python y AWS**  
+🤖 Desarrollando soluciones de **Computer Vision & IA** aplicadas a la industria  
+📍 Río Negro, Argentina | 🌎 Abierto a oportunidades remotas
 
 ---
 
 # 🚀 Sobre mí
 
-Soy Técnico Programador Universitario y estudiante avanzado de **Licenciatura en Sistemas**, apasionado por el desarrollo de software y la construcción de soluciones escalables.
+¡Hola! Estoy en la recta final de la **Licenciatura en Sistemas** y me especializo en el desarrollo backend y la arquitectura de software.
 
-Actualmente me desempeño como **Backend Developer**, participando en el desarrollo, mantenimiento y evolución de aplicaciones empresariales. Además, me encuentro ampliando mis conocimientos en tecnologías modernas como **Python, Django, NestJS** e **Inteligencia Artificial**, con el objetivo de seguir creciendo profesionalmente.
+- 🎯 **En lo que trabajo hoy:** Desarrollo de un sistema de visión por computadora para la industria ganadera en colaboración con el **INTA**.
+- 🛠️ **Tech Stack principal:** NestJS, Node.js, Python (YOLO / Computer Vision) y Cloud en AWS.
+- 📐 **Enfoque:** Arquitectura backend, código limpio, buenas prácticas e integración de IA en problemas reales.
 
-Me interesa especialmente:
-
-* 🤖 Inteligencia Artificial
-* ☁️ Cloud Computing (AWS)
-* 🔐 Ciberseguridad
+**Áreas de interés:**
+* 🤖 Inteligencia Artificial & Computer Vision
+* ☁️ Cloud Computing (AWS) & DevOps
+* 🔐 Ciberseguridad & Infraestructura
 * 🏗️ Arquitectura de Software
 * 📈 Optimización de procesos mediante tecnología
 
@@ -26,118 +26,47 @@ Me interesa especialmente:
 
 # 🛠️ Stack Tecnológico
 
-## Backend
+### Backend & Cloud (Foco actual)
+* **Lenguajes & Frameworks:** Node.js, NestJS, Python (FastAPI, Django), Java
+* **Cloud & DevOps:** AWS (EC2, RDS, S3, Route 53, IAM, VPC, CloudWatch), Docker, GitHub Actions, Linux (Ubuntu Server)
+* **Bases de datos:** MySQL, PostgreSQL, SQLite
 
-* PHP (5.6, 8.x)
-* Laravel
-* CodeIgniter 3
-* Java
-
-## Frontend
-
-* React
-* JavaScript
-* HTML5
-* CSS3
-* Bootstrap
-
-## Bases de datos
-
-* MySQL
-* SQLite
-
-## Cloud & DevOps
-
-* AWS (EC2, RDS, S3, Route 53, IAM, VPC, CloudWatch, Systems Manager)
-* Docker
-* GitHub Actions
-* Linux (Ubuntu Server)
-
-## Actualmente capacitándome en
-
-* Python
-* Django
-* Django REST Framework
-* NestJS
-* Inteligencia Artificial
-* Computer Vision
-
-## Herramientas
-
-* Git
-* GitHub
-* Postman
-* VS Code
+### Experiencia previa & Mantenimiento
+* **Backend Legacy/Sistemas:** PHP (Laravel, CodeIgniter 3)
+* **Frontend:** React, JavaScript, HTML5, CSS3, Bootstrap
+* **Herramientas de desarrollo:** Git, GitHub, Postman, VS Code
 
 ---
 
-# 💼 Experiencia
+# 💼 Experiencia y Proyectos Destacados
 
-Actualmente participo en el desarrollo y mantenimiento de plataformas empresariales, colaborando en tareas como:
-
-* Desarrollo de nuevas funcionalidades.
-* Diseño e implementación de APIs REST.
-* Migración progresiva de aplicaciones desde CodeIgniter hacia Laravel.
-* Implementación de arquitecturas desacopladas y mejores prácticas de desarrollo.
-* Automatización de despliegues sobre AWS.
-* Optimización del rendimiento y escalabilidad de aplicaciones.
-* Integración con servicios externos y pasarelas de pago.
+### 🐄 Ganadería 3.0 (en colaboración con el INTA)
+*Proyecto colaborativo y personal de aplicación de IA en el sector agropecuario.*
+* **¿Qué hace?:** Automatiza la estimación de la **Condición Corporal (BCS)** del ganado bovino mediante imágenes y aprendizaje profundo.
+* **Stack:** Python, YOLO, FastAPI, NestJS, React, Docker.
 
 ---
 
-# 🚀 Proyectos destacados
-
-## 🐄 Ganadería 3.0
-
-Proyecto personal orientado a la aplicación de Inteligencia Artificial en el sector agropecuario.
-
-El objetivo es estimar automáticamente la **Condición Corporal (BCS)** del ganado bovino a partir de imágenes utilizando modelos de visión por computadora y aprendizaje profundo.
-
-**Tecnologías utilizadas:**
-
-* Python
-* FastAPI
-* React
-* NestJS
-* YOLO
-* Docker
+### 📦 StockControl (Alkemy)
+*Aplicación Full Stack con arquitectura desacoplada.*
+* **Características:** Gestión integral de stock, clientes y proveedores con autenticación JWT.
+* **Stack:** Django REST Framework, React + Vite.
 
 ---
 
-## 📦 StockControl
-
-Aplicación Full Stack desarrollada como parte del programa de formación de **Alkemy**.
-
-Características principales:
-
-* React + Vite
-* Django REST Framework
-* JWT Authentication
-* CRUD de Clientes
-* CRUD de Productos
-* CRUD de Proveedores
-* Arquitectura Frontend / Backend desacoplada
-
----
-
-## 💳 Plataforma de Facturación Electrónica
-
-Sistema empresarial desarrollado sobre CodeIgniter con integración de pasarelas de pago, validación automática de comprobantes y gestión de suscripciones.
-
----
-
-## 👥 Sistema de Gestión Humana
-
-Aplicación para la administración de empleados, documentación, asistencia e historial laboral, diseñada para organizaciones con múltiples usuarios y necesidades de escalabilidad.
-
+### 💳 Sistemas Empresariales & Facturación Electrónica
+*Desarrollo y evolución de soluciones backend para gestión.*
+* Integración de pasarelas de pago y validación automática de comprobantes.
+* Desarrollo de módulos de gestión humana, asistencia y control de personal.
+* Migración progresiva de sistemas legados (CodeIgniter) hacia arquitecturas más modernas y desacopladas.
+* Automatización de despliegues e infraestructura sobre AWS.
 
 ---
 
 # 📫 Contacto
 
-* 💼 LinkedIn: https://www.linkedin.com/in/rodrigo-gajardo/
-* ✉️ Email: [rodrigoarielgajardo@gmail.com](mailto:rodrigoarielgajardo@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/rodrigo-gajardo](https://www.linkedin.com/in/rodrigo-gajardo/)
+* ✉️ **Email:** [rodrigoarielgajardo@gmail.com](mailto:rodrigoarielgajardo@gmail.com)
 
 ---
-
-⭐ Siempre estoy interesado en aprender nuevas tecnologías, participar en proyectos desafiantes y seguir creciendo como Backend Developer.
+⭐ *Siempre interesado en aprender nuevas tecnologías, resolver problemas complejos y construir software escalable.*
