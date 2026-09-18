@@ -35,10 +35,10 @@ Trabajo con AWS certificado (Cloud Foundations, cursando Solutions Architect Ass
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white)
 
 **Computer Vision & IA**
 
@@ -61,51 +61,65 @@ Trabajo con AWS certificado (Cloud Foundations, cursando Solutions Architect Ass
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![TablePlus](https://img.shields.io/badge/TablePlus-F5A623?style=flat&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-![GoDaddy](https://img.shields.io/badge/GoDaddy-1BDBDB?style=flat&logo=godaddy&logoColor=white)
 
 **Agentes de IA**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat&logo=openai&logoColor=white)
 
 ---
 
 ## Proyectos destacados
 
 ### 🐄 Ganadería 3.0 — IA aplicada al sector agropecuario
-*Proyecto colaborativo con el INTA (en desarrollo)*
+*Colaboración con el INTA (en desarrollo activo)*
 
-Automatización de la estimación de **Condición Corporal (BCS)** en ganado bovino usando visión por computadora. El sistema procesa imágenes del animal y predice su estado nutricional sin intervención manual, reduciendo el tiempo de evaluación en campo.
+Plataforma integral de gestión ganadera con módulo de análisis de **Condición Corporal (CC)** mediante visión por computadora: el productor carga imágenes del animal desde tres ángulos y el sistema devuelve puntaje CC, nivel de confianza y observaciones por zona corporal.
 
-- Modelo de detección: YOLOv8 + clasificación por regiones corporales
-- API de inferencia: FastAPI + Docker
-- Frontend de validación: React
-- Integración con backend de gestión: NestJS
+- Backend de gestión: **NestJS + TypeORM + PostgreSQL**
+- Servicio de IA independiente: **FastAPI + OpenCV/YOLO**, desacoplado del backend
+- Frontend: **React + Vite**
+- Infraestructura: **Docker + Nginx + Cloudflare**
+- [Ver repositorio →](https://github.com/RodrigoGajardo22/ganaderia-3.0)
+
+---
+
+### 📅 CodeReserva — Sistema de reservas con API REST
+*Proyecto final del Programa de Aceleración Tech · Alkemy · Río Negro*
+
+Plataforma para gestionar servicios, clientes y reservas de una empresa de desarrollo, con backend propio hecho en equipo (mi foco fue API, autenticación, permisos y generación de PDFs).
+
+- **Django 6 + Bootstrap 5**, CRUD completo con baja lógica
+- **API REST con DRF** documentada con Swagger (drf-spectacular)
+- Comprobantes en **PDF** generados con ReportLab
+- Puesta en marcha con **Podman** en un solo comando
+- [Ver repositorio →](https://github.com/RodrigoGajardo22/Code-Reserva)
 
 ---
 
 ### 📦 StockControl — Gestión de inventario full stack
-*Proyecto del Programa de Aceleración Tech · Alkemy · Río Negro*
+*Programa de Aceleración Tech · Alkemy · Río Negro*
 
-Aplicación con arquitectura desacoplada para gestión integral de stock, clientes y proveedores. Desarrollada en el marco del programa de aceleración Alkemy + Gobierno de Río Negro.
+Aplicación con arquitectura desacoplada para gestión de clientes, proveedores y productos, evolucionando el desafío base de Alkemy con API REST, autenticación JWT y frontend independiente.
 
-- Autenticación JWT, control de roles, API REST
-- **Stack:** Django REST Framework · React + Vite
+- **Django REST Framework** + **React + Vite**
+- Autenticación JWT, panel de administración de Django
 - [Ver repositorio →](https://github.com/RodrigoGajardo22/StockControl)
 
 ---
 
 ### ⛪ Sistema Web IINP — Plataforma con gestión de roles
-*Sistema en producción*
+*Sistema en producción activa*
 
-Plataforma web con sitio público y panel de administración para organización civil. Sistema real en uso activo con múltiples niveles de acceso (administrador, moderador, colaborador).
+Plataforma web completa para una organización civil: sitio público, panel de administración con roles jerárquicos y app móvil en construcción.
 
-- Gestión de contenido, usuarios y permisos granulares
-- Despliegue en servidor Linux con configuración manual de entorno
+- Backend: **NestJS 11 + TypeORM + PostgreSQL 16**, con Supabase para autenticación
+- Frontend: **React 19 + Vite**
+- Infraestructura: **Podman + Nginx + Cloudflare**, redes aisladas backend/frontend
+- App móvil (Expo) en construcción
+- [Ver repositorio →](https://github.com/RodrigoGajardo22/Sistema_web-IINP)
 
 ---
 
