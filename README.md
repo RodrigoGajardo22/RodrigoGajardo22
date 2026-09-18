@@ -11,11 +11,11 @@ Río Negro, Argentina · Abierto a oportunidades remotas
 
 ## Sobre mí
 
-Estudiante avanzado de **Licenciatura en Sistemas (UNRN)**, con foco en arquitectura backend, automatización y aplicaciones de IA en contextos reales.
+Estudiante avanzado de **Licenciatura en Sistemas (UNRN)**, con foco en arquitectura backend, cloud y aplicaciones de IA aplicadas a problemas reales.
 
-Actualmente desarrollo un sistema de **visión por computadora para la industria ganadera** en colaboración con el **INTA**, orientado a estimar la Condición Corporal (BCS) del ganado bovino mediante imágenes y modelos de aprendizaje profundo.
+Actualmente desarrollo, en colaboración con el **INTA**, un sistema de **visión por computadora para la industria ganadera** que estima la Condición Corporal (BCS) del ganado bovino a partir de imágenes, usando modelos de aprendizaje profundo.
 
-Trabajo con AWS certificado (Cloud Foundations, cursando Solutions Architect Associate) y tengo experiencia real en producción con sistemas de facturación electrónica, gestión de nómina y despliegues automatizados.
+Certificado en **AWS Cloud Foundations** (cursando Solutions Architect Associate), con experiencia real en producción: sistemas de facturación electrónica, gestión de nómina y despliegues automatizados en AWS.
 
 **Áreas de interés:**
 - Inteligencia Artificial & Computer Vision
